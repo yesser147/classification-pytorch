@@ -1,0 +1,7 @@
+/data
+.dvc/config.local
+.dvc/tmp
+.dvc/cache
+/models
+data-management-*.json
+
